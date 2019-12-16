@@ -41,10 +41,17 @@
 /*tambahan*/
 .overlay ul {
 font-family: Courier New;
-color: #ffffff;
-font-size: 15px;
-text-align: left;
-top: 0;
-left: 0;
+  color: #ffffff;
+  font-size: 15px;
+  text-decoration: none;
+	text-align: left;
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+
 
 }
