@@ -33,9 +33,16 @@
 .overlay h2 {
   font-family: Courier New;
   color: #ffffff;
-  font-size: 15px;
+  font-size: 20px;
   text-decoration: none;
   text-align: center;
   
+}
+.overlay p {
+font-family: Courier New;
+  color: #ffffff;
+  font-size: 15px;
+  text-decoration: none;
+  text-align: left;
 }
 
