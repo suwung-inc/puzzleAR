@@ -39,13 +39,11 @@
 }
 .overlay ul {
 font-family: Courier New;
-  color: #ffffff;
-  font-size: 15px;
-  text-decoration: none;
-	text-align: left;
-  display: block;
-  list-style-type: disc;
-  text-align: left;
-  padding-left: 0px;
+color: #ffffff;
+font-size: 15px;
+text-align: left;
+text-align: left;
+top: 0;
+left: 0;
 
 }
